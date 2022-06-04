@@ -1,5 +1,3 @@
-
-
 #EXTM3U
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191101/1572586139091.jpg" group-title="中国广播", 中国交广
 http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
@@ -37,7 +35,7 @@ http://sk.cri.cn/915.m3u
 http://sk.cri.cn/905.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/media/1100/20200506/1588757318420.jpg" group-title="中国广播", 英语资讯 
 http://cnlive.cnr.cn/hls/yyzxgb.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pic.qingting.fm/2013/channel_logo/4995.jpg" group-title="中国广播", CRI 中文环球
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pic.qingting.fm/2013/channel_logo/4995.jpg" group-title="中国广播", 中文环球
 http://sk.cri.cn/hyhq.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="中国广播", 海峡飞虹
 http://sk.cri.cn/hxfh.m3u8
