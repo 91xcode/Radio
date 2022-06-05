@@ -35,6 +35,8 @@ http://23683.live.streamtheworld.com:3690/HAO_963_SC
 http://master01-ent.shoutcast.com:8000/foxnews
 #EXTINF:-1,BBC News
 https://fallra.in/radio/bbc/bbc_world_service
+#EXTINF:-1,CNN News
+http://tunein.streamguys1.com/cnn-new
 #EXTINF:-1,VOA News
 https://fallra.in/mp3/voa/english/nnow/NNOW_HEADLINES.mp3
 #EXTINF:-1,Times Radio
@@ -53,8 +55,6 @@ http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_four_extra
 #EXTINF:-1,BBC Radio 5
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_five_live_online_nonuk
-#EXTINF:-1,MSNBC
-http://tunein.ord.streamguys1.com/secure-msnbc-premium
 #EXTINF:-1,CGTN News
 http://sk.cri.cn/am846.m3u8
 #EXTINF:-1,One FM
