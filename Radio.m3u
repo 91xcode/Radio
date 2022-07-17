@@ -33,6 +33,20 @@ http://sk.cri.cn/905.m3u8
 http://cnlive.cnr.cn/hls/yyzxgb.m3u8
 #EXTINF:-1,CRI中文环球  
 http://sk.cri.cn/hyhq.m3u8
+#EXTINF:-1,One FM
+http://22253.live.streamtheworld.com:3690/ONE_FM_913.mp3
+#EXTINF:-1,Gold FM
+http://22903.live.streamtheworld.com:3690/GOLD905_PREM.aac
+EXTINF:-1,Power FM
+http://crystalout.surfernetwork.com:8001/KVSP_MP3
+EXTINF:-1,Class FM
+https://22393.live.streamtheworld.com/CLASS95_PREM.aac
+EXTINF:-1,Kiss FM
+http://22253.live.streamtheworld.com:3690/KISS_92.mp3
+#EXTINF:-1,CGTN News
+http://sk.cri.cn/am846.m3u8
+#EXTINF:-1,Good News
+https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm903/playlist.m3u8
 #EXTINF:-1,Hao FM
 http://23683.live.streamtheworld.com:3690/HAO_963_SC
 #EXTINF:-1,Fox News
@@ -59,17 +73,3 @@ http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_four_extra
 #EXTINF:-1,BBC Radio 5
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_five_live_online_nonuk
-#EXTINF:-1,One FM
-http://22253.live.streamtheworld.com:3690/ONE_FM_913.mp3
-#EXTINF:-1,Gold FM
-http://22903.live.streamtheworld.com:3690/GOLD905_PREM.aac
-EXTINF:-1,Power FM
-http://crystalout.surfernetwork.com:8001/KVSP_MP3
-EXTINF:-1,Class FM
-https://22393.live.streamtheworld.com/CLASS95_PREM.aac
-EXTINF:-1,Kiss FM
-http://22253.live.streamtheworld.com:3690/KISS_92.mp3
-#EXTINF:-1,CGTN News
-http://sk.cri.cn/am846.m3u8
-#EXTINF:-1,Good News
-https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm903/playlist.m3u8
