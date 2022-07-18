@@ -55,6 +55,10 @@ http://sk.cri.cn/905.m3u8
 http://cnlive.cnr.cn/hls/yyzxgb.m3u8
 #EXTINF:-1,CRI中文环球  
 http://sk.cri.cn/hyhq.m3u8
+#EXTINF:-1,CRICRI南海之声
+http://sk.cri.cn/nhzs.m3u8
+#EXTINF:-1,CRI世界华声
+http://sk.cri.cn/hxfh.m3u8
 #EXTINF:-1,BCC中广音乐
 http://stream.rcs.revma.com/ks4vsmg3qtzuv
 #EXTINF:-1,BCC中广新闻
