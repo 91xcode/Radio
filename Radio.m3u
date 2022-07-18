@@ -1,6 +1,7 @@
 #EXTM3U
-#EXTINF:-1,中国交通广播
-http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+
+#EXTINF:-1,北京经典调频
+http://live.funhillrm.com/4/sd/live.m3u8
 #EXTINF:-1,北京新闻广播
 http://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 #EXTINF:-1,北京音乐广播
@@ -17,6 +18,10 @@ http://123.56.16.201:1935/live/am603/96K/tzwj_video.m3u8
 http://audiolive.rbc.cn:1935/live/fm1073/96K/tzwj_video.m3u8
 #EXTINF:-1,北京青年广播
 http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8
+#EXTINF:-1,北京体育广播
+http://audiolive.rbc.cn:1935/live/fm1025/96K/tzwj_video.m3u8
+#EXTINF:-1,CNR交通广播
+http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 #EXTINF:-1,CNR中国之声
 http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
 #EXTINF:-1,CNR文艺之声
