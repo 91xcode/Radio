@@ -67,6 +67,10 @@ http://stream.rcs.revma.com/78fm9wyy2tzuv
 http://stream.rcs.revma.com/aw9uqyxy2tzuv
 #EXTINF:-1,长沙音乐广播
 http://20573.hlsplay.aodianyun.com/zhcs_radio/jjgb886.m3u8
+#EXTINF:-1,湖南文艺广播
+http://satellitepull.cnr.cn/live/wx32hunwygb/playlist.m3u8
+#EXTINF:-1,湖南音乐之声
+http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
 #EXTINF:-1,One FM
 http://22253.live.streamtheworld.com:3690/ONE_FM_913.mp3
 #EXTINF:-1,Gold FM
