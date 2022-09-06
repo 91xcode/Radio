@@ -3,8 +3,6 @@
 http://live.funhillrm.com/4/sd/live.m3u8
 #EXTINF:-1,北京新闻广播
 http://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
-#EXTINF:-1,北京体育广播
-http://audiolive.rbc.cn:1935/live/fm1025/96K/tzwj_video.m3u8
 #EXTINF:-1,北京音乐广播
 http://audiolive.rbc.cn:1935/live/fm974/96K/tzwj_video.m3u8
 #EXTINF:-1,北京交通广播
@@ -67,6 +65,8 @@ http://stream.rcs.revma.com/ks4vsmg3qtzuv
 http://stream.rcs.revma.com/78fm9wyy2tzuv
 #EXTINF:-1,BCC中广流行
 http://stream.rcs.revma.com/aw9uqyxy2tzuv
+#EXTINF:-1,长沙音乐广播
+http://20573.hlsplay.aodianyun.com/zhcs_radio/jjgb886.m3u8
 #EXTINF:-1,One FM
 http://22253.live.streamtheworld.com:3690/ONE_FM_913.mp3
 #EXTINF:-1,Gold FM
