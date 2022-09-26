@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="未分类",北京经典调频
-http://live.funhillrm.com/4/sd/live.m3u8
 #EXTINF:-1 group-title="未分类",北京新闻广播
 http://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 #EXTINF:-1 group-title="未分类",CNR交通广播
