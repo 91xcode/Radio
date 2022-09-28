@@ -85,6 +85,8 @@ http://npr-ice.streamguys1.com/live.mp3
 http://tunein.ord.streamguys1.com/secure-aljazeera-english
 #EXTINF:-1 group-title="未分类",BBC News
 https://18123.live.streamtheworld.com/WUAL_HD3AAC.aac
+#EXTINF:-1 group-title="未分类", News
+https://fallra.in/mp3/voa/english/nnow/NNOW_HEADLINES.mp3
 #EXTINF:-1 group-title="未分类",LBC News 
 https://icecast.thisisdax.com/LBCNewsUKMP3
 #EXTINF:-1 group-title="未分类",LBC UK
