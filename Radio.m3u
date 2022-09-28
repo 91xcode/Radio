@@ -1,6 +1,30 @@
 #EXTM3U
-#EXTINF:-1 group-title="未分类",北京新闻广播
-http://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
+#EXTINF:-1 group-title="未分类",北京FM100.6
+https://lhttp.qingting.fm/live/339/64k.mp3 
+#EXTINF:-1 group-title="未分类",北京FM96.6
+http://lhttp.qingting.fm/live/20462/64k.mp3
+#EXTINF:-1 group-title="未分类",北京FM95.9
+https://lhttp.qingting.fm/live/5021381/64k.mp3 
+#EXTINF:-1 group-title="未分类",北京FM87.6
+ttp://lhttp.qingting.fm/live/333/64k.mp3
+#EXTINF:-1 group-title="未分类",北京FM94.5
+https://lhttp.qingting.fm/live/5022463/64k.mp3
+#EXTINF:-1 group-title="未分类",北京FM97.4
+https://lhttp.qingting.fm/live/332/64k.mp3
+#EXTINF:-1 group-title="未分类",北京FM107.3
+http://lhttp.qingting.fm/live/345/64k.mp3
+#EXTINF:-1 group-title="未分类",北京FM86.5
+https://lhttp.qingting.fm/live/334/64k.mp3
+#EXTINF:-1 group-title="未分类",北京FM98.6
+https://lhttp.qingting.fm/live/5021739/64k.mp3
+#EXTINF:-1 group-title="未分类",北京FM95.4
+https://lhttp.qingting.fm/live/337/64k.mp3
+#EXTINF:-1 group-title="未分类",北京FM102.5
+https://lhttp.qingting.fm/live/335/64k.mp3
+#EXTINF:-1 group-title="未分类",北京FM103.9
+https://lhttp.qingting.fm/live/336/64k.mp3 
+#EXTINF:-1 group-title="未分类",北京FM102.5
+https://lhttp.qingting.fm/live/347/64k.mp3 
 #EXTINF:-1 group-title="未分类",CNR交通广播
 http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 #EXTINF:-1 group-title="未分类",CNR中国之声
