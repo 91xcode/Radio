@@ -1,29 +1,29 @@
 #EXTM3U
-#EXTINF:-1 group-title="未分类",北京FM100.6
+#EXTINF:-1 group-title="未分类",北京新闻广播
 https://lhttp.qingting.fm/live/339/64k.mp3 
-#EXTINF:-1 group-title="未分类",北京FM96.6
+#EXTINF:-1 group-title="未分类",北京经典调频
 http://lhttp.qingting.fm/live/20462/64k.mp3
-#EXTINF:-1 group-title="未分类",北京FM95.9
+#EXTINF:-1 group-title="未分类",北京好音乐台
 https://lhttp.qingting.fm/live/5021381/64k.mp3 
-#EXTINF:-1 group-title="未分类",北京FM87.6
+#EXTINF:-1 group-title="未分类",北京文艺广播
 ttp://lhttp.qingting.fm/live/333/64k.mp3
-#EXTINF:-1 group-title="未分类",北京FM94.5
+#EXTINF:-1 group-title="未分类",北京动听调频
 https://lhttp.qingting.fm/live/5022463/64k.mp3
-#EXTINF:-1 group-title="未分类",北京FM97.4
+#EXTINF:-1 group-title="未分类",北京音乐广播
 https://lhttp.qingting.fm/live/332/64k.mp3
-#EXTINF:-1 group-title="未分类",北京FM107.3
+#EXTINF:-1 group-title="未分类",北京城市广播
 http://lhttp.qingting.fm/live/345/64k.mp3
-#EXTINF:-1 group-title="未分类",北京FM86.5
+#EXTINF:-1 group-title="未分类",北京外语广播
 https://lhttp.qingting.fm/live/334/64k.mp3
-#EXTINF:-1 group-title="未分类",北京FM98.6
+#EXTINF:-1 group-title="未分类",北京阳光调频
 https://lhttp.qingting.fm/live/5021739/64k.mp3
-#EXTINF:-1 group-title="未分类",北京FM95.4
+#EXTINF:-1 group-title="未分类",北京故事广播
 https://lhttp.qingting.fm/live/337/64k.mp3
-#EXTINF:-1 group-title="未分类",北京FM102.5
+#EXTINF:-1 group-title="未分类",北京体育广播
 https://lhttp.qingting.fm/live/335/64k.mp3
-#EXTINF:-1 group-title="未分类",北京FM103.9
+#EXTINF:-1 group-title="未分类",北京交通广播
 https://lhttp.qingting.fm/live/336/64k.mp3 
-#EXTINF:-1 group-title="未分类",北京FM102.5
+#EXTINF:-1 group-title="未分类",北京青年广播
 https://lhttp.qingting.fm/live/347/64k.mp3 
 #EXTINF:-1 group-title="未分类",CNR交通广播
 http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
