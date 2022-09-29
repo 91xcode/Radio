@@ -75,6 +75,10 @@ http://22253.live.streamtheworld.com:3690/ONE_FM_913.mp3
 http://22903.live.streamtheworld.com:3690/GOLD905_PREM.aac
 #EXTINF:-1,Hao FM
 http://23683.live.streamtheworld.com:3690/HAO_963_SC
+#EXTINF:-1,Class FM
+http://22393.live.streamtheworld.com/CLASS95.mp3
+#EXTINF:-1,Money FM
+http://22253.live.streamtheworld.com/MONEY_893.mp3
 #EXTINF:-1,CGTN News
 http://sk.cri.cn/am846.m3u8
 #EXTINF:-1,NPR News
