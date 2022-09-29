@@ -97,3 +97,6 @@ http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_four_extra
 #EXTINF:-1,News Radio UK
 http://playoutonestreaming.com:8008/stream 
+#EXTINF:-1,VOA-LE
+http://voa91.akacast.akamaistream.net/7/87/437873/v1/ibb.akacast.akamaistre
+am.net/voa91
