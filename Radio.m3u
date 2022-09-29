@@ -95,3 +95,5 @@ http://timesradio.wireless.radio/stream
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm
 #EXTINF:-1,BBC 4 Xtra
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_four_extra
+#EXTINF:-1,News Radio UK
+http://playoutonestreaming.com:8008/stream 
